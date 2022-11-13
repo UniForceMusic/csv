@@ -1,0 +1,17 @@
+{
+    "name": "uniforcemusic/csv",
+    "description": "A small PHP CSV parser",
+    "type": "library",
+    "autoload": {
+        "psr-4": {
+            "Uniforcemusic\\Csv\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "Koen de Wolf"
+        }
+    ],
+    "minimum-stability": "stable",
+    "require": {}
+}
